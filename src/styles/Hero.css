@@ -1,0 +1,16 @@
+.hero--Grid {
+  padding: 40px 100px;
+  width: 100%;
+}
+
+.hero--Title {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 40px;
+  padding: 0px 40px;
+}
+
+.hero--Des {
+  padding: 0px 300px 30px 40px;
+  margin-top: -5px;
+}

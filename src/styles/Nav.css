@@ -1,0 +1,13 @@
+.main-Nav {
+  align-items: center;
+  box-shadow: 0px 3px 7.5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  padding: 30px;
+  height: 70px;
+  width: 100%;
+}
+
+.main-Logo {
+  height: 25.35px;
+  width: 82px;
+}
